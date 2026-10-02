@@ -1,32 +1,36 @@
 # Simple Interest Calculator
 
-## Project Description
-This project explains how to calculate simple interest using the principal amount, annual interest rate, and time period.
+A simple web-based calculator that calculates Simple Interest and Total Amount.
 
 ## Formula
+
 Simple Interest = (Principal × Rate × Time) / 100
 
 Total Amount = Principal + Simple Interest
 
-## Inputs
-- Principal: The initial amount of money
-- Rate: Annual interest rate in percentage
-- Time: Time period in years
+## Features
+
+- Enter principal amount
+- Enter annual interest rate
+- Enter time in years
+- Calculate simple interest instantly
+- Display total amount
+- Responsive design for desktop and mobile
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
 
 ## Example
-Principal = 10000
-Rate = 5%
-Time = 2 years
 
-Simple Interest = (10000 × 5 × 2) / 100 = 1000
-Total Amount = 10000 + 1000 = 11000
+For:
 
-## How It Works
-1. Enter the principal amount.
-2. Enter the annual interest rate.
-3. Enter the time period in years.
-4. Apply the simple interest formula to calculate the interest.
-5. Add the interest to the principal to get the total amount.
+- Principal = ₹10,000
+- Rate = 5%
+- Time = 2 years
 
-## Purpose
-This project demonstrates the basic mathematical formula used to calculate simple interest.
+Simple Interest = ₹1,000
+
+Total Amount = ₹11,000
